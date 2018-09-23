@@ -96,7 +96,7 @@ def solve_coincide(box1, box2):
 
 
 #cap = cv2.VideoCapture('background_shift_slo.mov')
-cap = cv2.VideoCapture('slow.mov')
+cap = cv2.VideoCapture('1.MOV')
 
 # Take first frame
 ret, old_frame = cap.read()
